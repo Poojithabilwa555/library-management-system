@@ -1,0 +1,42 @@
+# Library Management System - Requirements
+
+## Backend
+
+- Java 25
+- Spring Boot 4.0.0
+- Maven
+- Spring Web
+- Spring Data JPA
+- Spring Security
+- MySQL Connector/J
+- Jakarta Validation
+- JJWT 0.12.6
+
+## Frontend
+
+- Node.js
+- npm
+- React 19.1.1
+- React DOM 19.1.1
+- Vite 8.3.0
+- Axios 1.20.0
+
+## Database
+
+- MySQL 8+
+- Database name: `library_management`
+
+## Runtime Ports
+
+- Backend: `8080`
+- Frontend: `5173`
+
+## Browser
+
+A modern browser such as Chrome, Edge, or Firefox.
+
+## Development Environment
+
+The project is currently configured for local development.
+
+> This file describes project requirements. It is not a Python dependency file.
