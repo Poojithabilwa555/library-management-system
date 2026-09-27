@@ -292,19 +292,7 @@ At a high level:
 
 ---
 
-## ⚠️ Important Security Note
 
-Before pushing this project to GitHub:
-
-- Do **not** commit database passwords.
-- Do **not** commit JWT secrets.
-- Do **not** commit `.env` files containing credentials.
-- Replace local credentials in `application.properties` with environment variables or a local-only configuration.
-- Do **not** upload `node_modules/` or Maven `target/` files.
-
-The current working project contains local database configuration, so review `src/main/resources/application.properties` before the first Git commit.
-
----
 
 ## 🧪 Current Functional Flow
 
